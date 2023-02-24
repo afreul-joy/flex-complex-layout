@@ -47,7 +47,7 @@
 }
 .h {
     border: 1px solid black;
-    height: 100%;
+    padding: 30px;
 }
 .f {
     border: 1px solid black;
